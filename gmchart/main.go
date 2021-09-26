@@ -10,8 +10,8 @@ import (
 	"runtime"
 	"time"
 
-	dist "github.com/PaulXu-cn/go-mod-graph-chart/godist"
-	src "github.com/PaulXu-cn/go-mod-graph-chart/gosrc"
+	dist "github.com/fanake/go-mod-graph-chart/godist"
+	src "github.com/fanake/go-mod-graph-chart/gosrc"
 )
 
 var (
