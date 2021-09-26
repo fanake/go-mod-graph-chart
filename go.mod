@@ -1,3 +1,3 @@
-module github.com/PaulXu-cn/go-mod-graph-chart
+module github.com/fanake/go-mod-graph-chart
 
 go 1.14
